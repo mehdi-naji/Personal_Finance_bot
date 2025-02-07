@@ -1,0 +1,4 @@
+myenv/
+**/tests/
+**/test_*.py
+**/nonascii.py
